@@ -12,4 +12,8 @@
 * Microsoft.Win32
 * Microsoft.Windows
 * System
+* System.Activities
+* System.AddIn
+* System.CodeDom
+* System.Collections
 
