@@ -20,4 +20,5 @@
 * System.Configuration
 * System.Data
 * System.Deployment
+* System.Device.Location
 
