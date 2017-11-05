@@ -16,4 +16,6 @@
 * System.AddIn
 * System.CodeDom
 * System.Collections
+* System.ComponentModel
+* System.Configuration
 
