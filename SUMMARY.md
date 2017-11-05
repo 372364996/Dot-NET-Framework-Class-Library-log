@@ -19,4 +19,5 @@
 * System.ComponentModel
 * System.Configuration
 * System.Data
+* System.Deployment
 
