@@ -18,4 +18,5 @@
 * System.Collections
 * System.ComponentModel
 * System.Configuration
+* System.Data
 
