@@ -21,4 +21,6 @@
 * System.Data
 * System.Deployment
 * System.Device.Location
+* System.Diagnostics
+* System.DirectoryServices
 
