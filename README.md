@@ -4,26 +4,26 @@
 
 | 命名空间 | 说明 |
 | :--- | :--- |
-| [Accessibility](https://msdn.microsoft.com/zh-cn/library/accessibility%28v=vs.110%29.aspx) | Accessibility及其所有公开成员均属于组件对象模型 \(COM\) 辅助功能接口的托管包装器。 |
-| [Microsoft.Activities](https://msdn.microsoft.com/zh-cn/library/mt476049%28v=vs.110%29.aspx) | Microsoft.Activities 命名空间包含支持针对 Windows Workflow Foundation 应用程序的 MSBuild 和调试器扩展的类型。 |
-| [Microsoft.Build](https://msdn.microsoft.com/zh-cn/library/mt476050%28v=vs.110%29.aspx) | Microsoft.Build 命名空间包含具有以下功能的类型：以编程方式访问和控制 MSBuild 引擎。 |
-| [Microsoft.CSharp](https://msdn.microsoft.com/zh-cn/library/mt481462%28v=vs.110%29.aspx) | Microsoft.CSharp 命名空间包含支持以下功能的类型：对使用 C\# 语言编写的源代码执行编译和代码生成，以及动态语言运行时 \(DLR\) 和 C\# 之间进行互操作。 |
-| [Microsoft.JScript](https://msdn.microsoft.com/zh-cn/library/mt481463%28v=vs.110%29.aspx) | Microsoft.JScript 命名空间包含具有以下功能的类：支持用 JScript 语言生成代码和进行编译。 |
-| [Microsoft.SqlServer.Server](https://msdn.microsoft.com/zh-cn/library/microsoft.sqlserver.server%28v=vs.110%29.aspx) | Microsoft.SqlServer.Server命名空间包含类、 接口和特定于 Microsoft.NET Framework 公共语言运行时 \(CLR\) 集成到 Microsoft SQL Server 和 SQL Server 数据库引擎进程的执行环境的枚举。 |
-| [Microsoft.VisualBasic](https://msdn.microsoft.com/zh-cn/library/mt481464%28v=vs.110%29.aspx) | Microsoft.VisualBasic 命名空间包含具有以下功能的类：支持用 Visual Basic 语言生成代码和进行编译。子命名空间包含具有以下功能的类型：为 Visual Basic 编译器提供服务，支持 Visual Basic 应用程序模型、My 命名空间、lambda 表达式和代码转换。 |
-| [Microsoft.VisualC](https://msdn.microsoft.com/zh-cn/library/mt481465%28v=vs.110%29.aspx) | Microsoft.VisualC 命名空间包含具有以下功能的类型：支持 Visual C++ 编译器，实现 STL/CLR 库和 STL/CLR 库通用接口。 |
-| [Microsoft.Win32](https://msdn.microsoft.com/zh-cn/library/mt481466%28v=vs.110%29.aspx) | Microsoft.Win32 命名空间提供具有以下功能的类型：处理操作系统引发的事件，操纵系统注册表，代表文件和操作系统句柄。 |
-| [Microsoft.Windows](https://msdn.microsoft.com/zh-cn/library/mt481467%28v=vs.110%29.aspx) | Microsoft.Windows 命名空间包含支持 Windows Presentation Framework \(WPF\) 应用程序中的主题和预览的类型。 |
+| [Accessibility](https://msdn.microsoft.com/zh-cn/library/accessibility%28v=vs.110%29.aspx) | [Accessibility](/accessibility.md)及其所有公开成员均属于组件对象模型 \(COM\) 辅助功能接口的托管包装器。 |
+| [Microsoft.Activities](https://msdn.microsoft.com/zh-cn/library/mt476049%28v=vs.110%29.aspx) | [Microsoft.Activities](/microsoftactivities.md) 命名空间包含支持针对 Windows Workflow Foundation 应用程序的 MSBuild 和调试器扩展的类型。 |
+| [Microsoft.Build](https://msdn.microsoft.com/zh-cn/library/mt476050%28v=vs.110%29.aspx) | [Microsoft.Build](/microsoftbuild.md) 命名空间包含具有以下功能的类型：以编程方式访问和控制 MSBuild 引擎。 |
+| [Microsoft.CSharp](https://msdn.microsoft.com/zh-cn/library/mt481462%28v=vs.110%29.aspx) | [Microsoft.CSharp](/microsoftcsharp.md) 命名空间包含支持以下功能的类型：对使用 C\# 语言编写的源代码执行编译和代码生成，以及动态语言运行时 \(DLR\) 和 C\# 之间进行互操作。 |
+| [Microsoft.JScript](https://msdn.microsoft.com/zh-cn/library/mt481463%28v=vs.110%29.aspx) | [Microsoft.JScript](/microsoftjscript.md) 命名空间包含具有以下功能的类：支持用 JScript 语言生成代码和进行编译。 |
+| [Microsoft.SqlServer.Server](https://msdn.microsoft.com/zh-cn/library/microsoft.sqlserver.server%28v=vs.110%29.aspx) | [Microsoft.SqlServer.Server](/microsoftsqlserverserver.md)命名空间包含类、 接口和特定于 Microsoft.NET Framework 公共语言运行时 \(CLR\) 集成到 Microsoft SQL Server 和 SQL Server 数据库引擎进程的执行环境的枚举。 |
+| [Microsoft.VisualBasic](https://msdn.microsoft.com/zh-cn/library/mt481464%28v=vs.110%29.aspx) | [Microsoft.VisualBasic](/microsoftvisualbasic.md) 命名空间包含具有以下功能的类：支持用 Visual Basic 语言生成代码和进行编译。子命名空间包含具有以下功能的类型：为 Visual Basic 编译器提供服务，支持 Visual Basic 应用程序模型、My 命名空间、lambda 表达式和代码转换。 |
+| [Microsoft.VisualC](https://msdn.microsoft.com/zh-cn/library/mt481465%28v=vs.110%29.aspx) | [Microsoft.VisualC](/microsoftvisualc.md) 命名空间包含具有以下功能的类型：支持 Visual C++ 编译器，实现 STL/CLR 库和 STL/CLR 库通用接口。 |
+| [Microsoft.Win32](https://msdn.microsoft.com/zh-cn/library/mt481466%28v=vs.110%29.aspx) | [Microsoft.Win32](/microsoftwin32.md) 命名空间提供具有以下功能的类型：处理操作系统引发的事件，操纵系统注册表，代表文件和操作系统句柄。 |
+| [Microsoft.Windows](https://msdn.microsoft.com/zh-cn/library/mt481467%28v=vs.110%29.aspx) | [Microsoft.Windows](/microsoftwindows.md) 命名空间包含支持 Windows Presentation Framework \(WPF\) 应用程序中的主题和预览的类型。 |
 | [System](https://msdn.microsoft.com/zh-cn/library/system%28v=vs.110%29.aspx) | System命名空间包含用于定义常用值和引用数据类型、事件和事件处理程序、接口、特性以及处理异常的基础类和基类。 |
-| [System.Activities](https://msdn.microsoft.com/zh-cn/library/mt481468%28v=vs.110%29.aspx) | System.Activities 命名空间包含在 Window Workflow Foundation 中创建和处理活动所需要的所有类。 |
-| [System.AddIn](https://msdn.microsoft.com/zh-cn/library/mt481473%28v=vs.110%29.aspx) | System.AddIn 命名空间包含具有以下用途的类型：确定、注册、激活和控制加载项，允许加载项与主机应用程序进行通信。 |
-| [System.CodeDom](https://msdn.microsoft.com/zh-cn/library/mt481474%28v=vs.110%29.aspx) | System.CodeDom 命名空间包含具有以下功能的类：表示源代码文档的元素和支持使用支持的编程语言生成和编译源代码。 |
-| [System.Collections](https://msdn.microsoft.com/zh-cn/library/mt481475%28v=vs.110%29.aspx) | System.Collections 命名空间包含具有以下功能的类型：定义各种标准的、专门的、通用的集合对象。 |
-| [System.ComponentModel](https://msdn.microsoft.com/zh-cn/library/mt481527%28v=vs.110%29.aspx) | System.ComponentModel 命名空间包含具有以下功能的类型：实现组件和控件的运行时和设计时行为。子命名空间支持 Managed Extensibility Framework \(MEF\)，提供用于为 ASP.NET 动态数据控件定义元数据的属性类，并包含用于定义组件及其用户界面的设计时行为的类型。 |
-| [System.Configuration](https://msdn.microsoft.com/zh-cn/library/mt481528%28v=vs.110%29.aspx) | System.Configuration 命名空间包含用于处理配置数据的类型，如计算机或应用程序配置文件中的数据。子命名空间包含具有以下用途的类型：配置程序集，编写组件的自定义安装程序，支持用于在客户端和服务器应用程序中添加或删除功能的可插入模型。 |
-| [System.Data](https://msdn.microsoft.com/zh-cn/library/mt481529%28v=vs.110%29.aspx) | System.Data 命名空间包含用于访问和管理来自多种不同源的数据的类。顶层命名空间和许多子命名空间一起形成 ADO.NET 体系结构和 ADO.NET 数据提供程序。例如，提供程序可用于 SQL Server、Oracle、ODBC 和 OleDB。其他子命名空间包含由 ADO.NET 实体数据模型 \(EDM\) 和 WCF 数据服务使用的类。 |
-| [System.Deployment](https://msdn.microsoft.com/zh-cn/library/mt481532%28v=vs.110%29.aspx) | System.Deployment 命名空间包含具有以下功能的类型：支持部署 ClickOnce 应用程序。 |
-| [System.Device.Location](https://msdn.microsoft.com/zh-cn/library/system.device.location%28v=vs.110%29.aspx) | System.Device.Location命名空间允许应用程序开发人员可以轻松地使用单个 API 访问计算机的位置。位置信息可能来自多个提供程序，例如 GPS、 Wi-fi 三角测量和单元格电话塔三角测量。System.Device.Location类提供了一个 API 来包装在一台计算机上的多个位置提供程序，并支持无缝的优先级别和它们之间转换。因此，应用程序开发人员使用此 API 不需要定制应用程序特定的硬件配置。 |
+| [System.Activities](https://msdn.microsoft.com/zh-cn/library/mt481468%28v=vs.110%29.aspx) | [System.Activities](/systemactivities.md) 命名空间包含在 Window Workflow Foundation 中创建和处理活动所需要的所有类。 |
+| [System.AddIn](https://msdn.microsoft.com/zh-cn/library/mt481473%28v=vs.110%29.aspx) | [System.AddIn](/systemaddin.md) 命名空间包含具有以下用途的类型：确定、注册、激活和控制加载项，允许加载项与主机应用程序进行通信。 |
+| [System.CodeDom](https://msdn.microsoft.com/zh-cn/library/mt481474%28v=vs.110%29.aspx) | [System.CodeDom](/systemcodedom.md) 命名空间包含具有以下功能的类：表示源代码文档的元素和支持使用支持的编程语言生成和编译源代码。 |
+| [System.Collections](https://msdn.microsoft.com/zh-cn/library/mt481475%28v=vs.110%29.aspx) | [System.Collections](/systemcollections.md) 命名空间包含具有以下功能的类型：定义各种标准的、专门的、通用的集合对象。 |
+| [System.ComponentModel](https://msdn.microsoft.com/zh-cn/library/mt481527%28v=vs.110%29.aspx) | [System.ComponentModel](/systemcomponentmodel.md) 命名空间包含具有以下功能的类型：实现组件和控件的运行时和设计时行为。子命名空间支持 Managed Extensibility Framework \(MEF\)，提供用于为 ASP.NET 动态数据控件定义元数据的属性类，并包含用于定义组件及其用户界面的设计时行为的类型。 |
+| [System.Configuration](https://msdn.microsoft.com/zh-cn/library/mt481528%28v=vs.110%29.aspx) | [System.Configuration](/systemconfiguration.md) 命名空间包含用于处理配置数据的类型，如计算机或应用程序配置文件中的数据。子命名空间包含具有以下用途的类型：配置程序集，编写组件的自定义安装程序，支持用于在客户端和服务器应用程序中添加或删除功能的可插入模型。 |
+| [System.Data](https://msdn.microsoft.com/zh-cn/library/mt481529%28v=vs.110%29.aspx) | [System.Data](/systemdata.md) 命名空间包含用于访问和管理来自多种不同源的数据的类。顶层命名空间和许多子命名空间一起形成 ADO.NET 体系结构和 ADO.NET 数据提供程序。例如，提供程序可用于 SQL Server、Oracle、ODBC 和 OleDB。其他子命名空间包含由 ADO.NET 实体数据模型 \(EDM\) 和 WCF 数据服务使用的类。 |
+| [System.Deployment](https://msdn.microsoft.com/zh-cn/library/mt481532%28v=vs.110%29.aspx) | [System.Deployment](/systemdeployment.md) 命名空间包含具有以下功能的类型：支持部署 ClickOnce 应用程序。 |
+| [System.Device.Location](https://msdn.microsoft.com/zh-cn/library/system.device.location%28v=vs.110%29.aspx) | [System.Device.Location](/systemdevicelocation.md)命名空间允许应用程序开发人员可以轻松地使用单个 API 访问计算机的位置。位置信息可能来自多个提供程序，例如 GPS、 Wi-fi 三角测量和单元格电话塔三角测量。System.Device.Location类提供了一个 API 来包装在一台计算机上的多个位置提供程序，并支持无缝的优先级别和它们之间转换。因此，应用程序开发人员使用此 API 不需要定制应用程序特定的硬件配置。 |
 | [System.Diagnostics](https://msdn.microsoft.com/zh-cn/library/mt481533%28v=vs.110%29.aspx) | System.Diagnostics 命名空间包含具有以下功能的类型：能让你与系统进程、事件日志和性能计数器之间进行交互。子命名空间包含具有以下功能的类型：与代码分析工具进行交互，支持协定，扩展对应用程序监控和检测的设计时支持，使用 Windows 事件跟踪 \(ETW\) 跟踪子系统来记录事件数据，在事件日志中进行读取和写入，收集性能数据，以及读取和写入调试符号信息。 |
 | [System.DirectoryServices](https://msdn.microsoft.com/zh-cn/library/mt481534%28v=vs.110%29.aspx) | System.DirectoryServices 命名空间包含具有以下功能的类型：能让你通过托管代码访问 Active Directory。 |
 | [System.Drawing](https://msdn.microsoft.com/zh-cn/library/mt481535%28v=vs.110%29.aspx) | System.Drawing 父命名空间包含具有以下功能的类型：支持基本的 GDI+ 图形功能。子命名空间支持高级二维和矢量图形功能、高级成像功能，以及与打印有关的服务和排印服务。另外，子命名空间还包含具有以下功能的类型：扩展设计时用户界面逻辑和绘图。 |
