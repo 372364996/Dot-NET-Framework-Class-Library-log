@@ -49,4 +49,9 @@
 * System.Transactions
 * System.Web
 * System.Windows
+* System.Workflow
+* System.Xaml
+* System.Xml
+* UIAutomationClientsideProviders
+* XamlGeneratedNamespace
 
